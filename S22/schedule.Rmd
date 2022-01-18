@@ -6,8 +6,8 @@ Schedule is updated dynamically throughout the semester
 
 | DATE        | TOPIC            |READING     |LOCATION     |      OUT |        DUE |
 | ---------   |:-----------------|:-----------|:-----------| --------:| ----------:|
-| Tue, Jan 18 | Intro and overview |          | Zoom       |  Hw1 out |            |
-| Tue, Jan 25 | How to read </br> (and write) research papers   |            | Zoom       |  Hw2 out | Hw1 due    |
+| Tue, Jan 18 | Intro and overview |          | Zoom |  Hw1 out |            |
+| Tue, Jan 25 |                  |            | Zoom       |  Hw2 out | Hw1 due    |
 | Tue, Feb 1  | Guest lecture:</br>[Megan Hofmann](https://www.megan-hofmann.com) |            |  366 WVH</br>& Zoom  |          |  Hw2 due</br>Proj group due   |
 | Tue, Feb 8  |                  |            |            |          |            |
 | Tue, Feb 15 |                  |            |            |          |            |
