@@ -1,0 +1,31 @@
+<h1> Computer Science Research Seminar, Spring 2022 </h1>
+Schedule is updated dynamically throughout the semester
+</br>
+
+<font size="3">
+
+| DATE        | TOPIC            |READING     |LOCATION     |      OUT |        DUE |
+| ---------   |:-----------------|:-----------|:-----------| --------:| ----------:|
+| Tue, Jan 18 | Intro and overview |          | Zoom       |  Hw1 out |            |
+| Tue, Jan 25 | How to read </br> (and write) research papers   |            | Zoom       |  Hw2 out | Hw1 due    |
+| Tue, Feb 1  | Guest lecture:</br>[Megan Hofmann](https://www.megan-hofmann.com) |            |  366 WVH</br>& Zoom  |          |  Hw2 due</br>Proj group due   |
+| Tue, Feb 8  |                  |            |            |          |            |
+| Tue, Feb 15 |                  |            |            |          |            |
+| Tue, Feb 22 |                  |            |            |          |            |
+| Tue, Mar 1  |  *Project pitches*  |         |            |          |            |
+| Tue, Mar 8  |                  |            |            |          | Proj proposal due |
+| Tue, Mar 15 | *No class, Spring break* |    |            |          |            |
+| Tue, Mar 22 |                  |            |            |          |            |
+| Tue, Mar 29 |                  |            |            |          |            |
+| Tue, Apr 5  |                  |            |            |          |            |
+| Tue, Apr 12 | *Project presentations*  |    |            |          |            |
+| Tue, Apr 19 | *Project presentations*  |    |            |          | Proj report due |
+| Tue, Apr 26 |                  |            |            |          | Proj review due           |
+| Tue, May 2  |                  |            |            |          |            |
+</font>
+
+
+
+
+
+
