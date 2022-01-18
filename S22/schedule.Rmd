@@ -4,9 +4,9 @@ Schedule is updated dynamically throughout the semester
 
 <font size="3">
 
-| DATE        | TOPIC            |READING     |LOCATION     |      OUT |        DUE |
-| ---------   |:-----------------|:-----------|:-----------| --------:| ----------:|
-| Tue, Jan 18 | Intro and overview |          | Zoom |  Hw1 out |            |
+| DATE        | TOPIC            |READING           |LOCATION |      OUT |        DUE |
+| ---------   |:-----------------|:-----------------|:--------| --------:| ----------:|
+| Tue, Jan 18 | Intro & overview |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)       | Zoom |  Hw1 out |            |
 | Tue, Jan 25 |                  |            | Zoom       |  Hw2 out | Hw1 due    |
 | Tue, Feb 1  | Guest lecture:</br>[Megan Hofmann](https://www.megan-hofmann.com) |            |  366 WVH</br>& Zoom  |          |  Hw2 due</br>Proj group due   |
 | Tue, Feb 8  |                  |            |            |          |            |
