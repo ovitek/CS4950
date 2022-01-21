@@ -7,7 +7,7 @@ Schedule is updated dynamically throughout the semester
 | DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT |        DUE |
 | ---------   |:-----------------|:---------------------------|:--------| --------:| ----------:|
 | Tue, Jan 18 | Intro & overview |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)       | Zoom |  Hw1 out |            |
-| Tue, Jan 25 | Discussion paper</br>Brendan & Levi</br>Guest: Piotr Sapiezynski |  Ali et al, [Discrimination through optimization: how Facebook's ad delivery can lead to biased outcomes](https://dl.acm.org/doi/abs/10.1145/3359301), HCI 2019          | Zoom       |  Hw2 out | Hw1 due    |
+| Tue, Jan 25 | Discussion paper</br>Brendan & Levi</br>Guest: [Piotr Sapiezynski](https://www.khoury.northeastern.edu/people/piotr-sapiezynski/) |  Ali et al, [Discrimination through optimization: how Facebook's ad delivery can lead to biased outcomes](https://dl.acm.org/doi/abs/10.1145/3359301), HCI 2019          | Zoom       |  Hw2 out | Hw1 due    |
 | Tue, Feb 1  | Guest lecture:</br>[Megan Hofmann](https://www.megan-hofmann.com) |  Hoffmann et al., [The right to help and the right help: fostering and regulating collective action in a medical making reaction to COVID-19](https://dl.acm.org/doi/10.1145/3411764.3445707), CHI 2021   |  366 WVH</br>& Zoom  |          |  Hw2 due</br>Proj group due   |
 | Tue, Feb 8  |                  |            |            |          |            |
 | Tue, Feb 15 |                  |            |            |          |            |
