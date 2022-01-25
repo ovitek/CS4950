@@ -17,8 +17,8 @@ The prerequisite is CS3950, or permission of the instructor.
 
 <p><strong>This a seminar course, which will consist of three components:</strong></br>
 **Lectures** The instructor and the guest lectures will provide the necessary general and technical background.</br>
-**Reading and discussing papers or presentations** The majority of the course will consist of summarizing research papers.</br> 
-**Projects** The students will conduct a semester-long research project, individually or in a group.</br>
+**Reading and discussing papers or presentations** The majority of the course will consist of summarizing research papers, and preparing presentations for the class.</br> 
+**Projects** The students will conduct a semester-long research project, individually or in a small group.</br>
 
 <p><strong>By the end of the course you will:</strong></br>
 * Understand new and ongoing research areas in computer science.</br>
@@ -62,7 +62,7 @@ Projects having any degree of similarity with work by any other group, or with a
 There are no exams in this course.
 
 <p><strong>Grading</strong></br>
-The final grade is based on a total of 100 points. The sum of all the attendance and participation points will be scaled to the maximum of 30. The sum of all the homeworks points will be scaled to the maximum of 30, and the project will be scaled to the maximum of 40. The scaled points will be added, and the final letter grades will follow the usual scale:</br>
+The final grade is based on a total of 100 points. The sum of all the homeworks points will be scaled to the maximum of 30. The sum of all the attendance and participation points will be scaled to the maximum of 30. The project will be scaled to the maximum of 40. The scaled points will be added, and the final letter grades will follow the usual scale:</br>
 90-100\% = A-range (i..e, A+, A or A-) </br>
 80-89\% = B-range (i.e., B+, B or B-) </br>
 70-79\% = C-range (i.e., C+, C or C-) </br>
