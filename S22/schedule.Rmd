@@ -13,7 +13,7 @@ Schedule is updated dynamically throughout the semester
 | Feb 15 | Discussion paper</br>*Nate*</br>Guest: [Mr. Kevin Esslinger](https://kevslinger.github.io/)  | V. Mnih et al. [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) Nature, 518:529, 2015 |  Zoom          | Hw4 due</br>Hw5 out |
 | Feb 22 | Guest lecture:</br>[Dr. Irene Chen](https://irenechen.net/) | I. Chen et al, [Ethical machine learning in healthcare](https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-092820-114757), Annual Review of Biomedical Data Science, 4:123, 2021 |  366 WVH</br>& Zoom | Hw5 due</br>Hw6 out |
 | Mar 1  |  Guest lecture:</br>[Dr. Nai-Hui Chia](https://sites.google.com/view/naihuichia)   |         |  366 WVH</br>& Zoom  |          |
-| Mar 8  | *Project pitches* |            |            | Proj proposal due  |
+| Mar 8  | *Project pitches* |            |            | Proj proposal due 3/11   |
 | Mar 15 | *No class, Spring break* |    |            |          |
 | Mar 22 |                  |            |            |          |
 | Mar 29 |                  |            |            |          |
