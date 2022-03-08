@@ -16,7 +16,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 8  | *Project pitches* |            | Zoom  | Proj proposal due 3/11 </br>Hw7 out  |
 | Mar 15 | *No class, Spring break* |    |            |          |
 | Mar 22 | Discussion paper</br>*Xuyang*  | C. Glymour et al. [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full) Frontiers in Genetics, 10:524, 2019.           |   Zoom         | Hw7 due         |
-| Mar 29 |   Guest lecture:</br>[Dr. Elizabeth Bondi](https://sites.google.com/view/elizabethbondi)               |            |            |          |
+| Mar 29 |   Guest lecture:</br>[Dr. Elizabeth Bondi](https://sites.google.com/view/elizabethbondi)               |            |      Zoom      |          |
 | Apr 5  |                  |            |            |          |
 | Apr 12 |                  |            |            |          |
 | Apr 19 | *Project presentations*  |    |            |  |
