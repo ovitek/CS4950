@@ -15,9 +15,9 @@ Schedule is updated dynamically throughout the semester
 | Mar 1  |  Guest lecture:</br>[Dr. Nai-Hui Chia](https://sites.google.com/view/naihuichia)   |  N.-H. Chia et al., [On the need for large Quantum depth](https://dl.acm.org/doi/abs/10.1145/3357713.3384291), ACM SIGACT, 902, 2020 </br>Optional background reading: Sec in [[1]](https://homepages.cwi.nl/~rdewolf/qcnotes.pdf), Sec18 in [[2]](https://www.scottaaronson.com/qclec.pdf) |  366 WVH</br>& Zoom  | Hw6 due |
 | Mar 8  | *Project pitches* |            | Zoom  | Proj proposal due 3/11 </br>Hw7 out  |
 | Mar 15 | *No class, Spring break* |    |            |          |
-| Mar 22 | Discussion paper</br>*Xuyang*  | C. Glymour et al. [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full) Frontiers in Genetics, 10:524, 2019.           |   Zoom         | Hw7 due</br>Hw8 out         |
+| Mar 22 | Discussion paper</br>*Xuyang*  | C. Glymour et al. [Review of causal discovery methods based on graphical models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full) Frontiers in Genetics, 10:524, 2019.           |   Zoom         | Hw7 due</br>Hw8 out         |
 | Mar 29 |   Guest lecture:</br>[Dr. Elizabeth Bondi](https://sites.google.com/view/elizabethbondi)               |   E. Bondi et al., [Role of human-AI interaction in selective prediction](https://arxiv.org/abs/2112.06751), AAAI, 2022 |      Zoom      |   Hw8 due</br>Hw9 out       |
-| Apr 5  |  Discussion paper</br>*Noah & Mateusz* | I. Goodfellow et al., [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf), NeurIPS, 2014. |  Zoom |  Hw9 due</br>Hw10 out  |
+| Apr 5  |  Discussion paper</br>*Noah & Mateusz* | I. Goodfellow et al., [Generative adversarial nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf), NeurIPS, 2014. |  Zoom |  Hw9 due</br>Hw10 out  |
 | Apr 12 | Discussion paper</br>*Nithin & Arman*  |            |  Zoom  | Hw10 due  |
 | Apr 19 | *Project presentations*  |    |  Zoom |  |
 | Apr 26 | *Project presentations*  |    |  Zoom | Proj report due |
