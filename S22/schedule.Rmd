@@ -19,7 +19,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 29 |   Guest lecture:</br>[Dr. Elizabeth Bondi](https://sites.google.com/view/elizabethbondi)               |   E. Bondi et al., [Role of human-AI interaction in selective prediction](https://arxiv.org/abs/2112.06751), AAAI, 2022 |      Zoom      |   Hw8 due</br>Hw9 out       |
 | Apr 5  |  Discussion paper</br>*Noah & Mateusz*</br>Guest: Mrs. [Vartika Tewari](https://www.khoury.northeastern.edu/people/vartika-tewari/) | I. Goodfellow et al., [Generative adversarial nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf), NeurIPS, 2014. |  Zoom |  Hw9 due</br>Hw10 out  |
 | Apr 12 | Discussion paper</br>*Nithin & Arman*  |            |  Zoom  | Hw10 due  |
-| Apr 19 | *Project presentations*  |    |  Zoom |  |
+| Apr 19 | *No class</br>Project presentations following week*  |    |  Zoom |  |
 | Apr 26 | *Project presentations*  |    |  Zoom | Proj report due |
 | May 2  | *Finals week* |            |            | Proj review due |
 </font>
