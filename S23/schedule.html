@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>schedule.knit</title>
+
+<script src="site_libs/header-attrs-2.17/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CS4950</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Info</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<h1>
+Computer Science Research Seminar, Spring 2023
+</h1>
+<p>Schedule is updated dynamically throughout the semester </br></p>
+<p><font size="3"></p>
+<table>
+<colgroup>
+<col width="8%" />
+<col width="25%" />
+<col width="45%" />
+<col width="9%" />
+<col width="12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>DATE</th>
+<th align="left">TOPIC / PRESENTER</th>
+<th align="left">READING</th>
+<th align="left">LOCATION</th>
+<th align="right">OUT/DUE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Jan 18</td>
+<td align="left">Intro &amp; overview</td>
+<td align="left">How to read papers <a
+href="https://dl.acm.org/citation.cfm?id=1595493">1</a>, <a
+href="https://dl.acm.org/citation.cfm?id=1273458">2</a><br>How to write
+papers <a
+href="https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html">1</a>,
+<a href="https://www.nature.com/articles/d41586-019-02918-5">2</a></td>
+<td align="left">Zoom</td>
+<td align="right">Hw1 out</td>
+</tr>
+<tr class="even">
+<td>Jan 25</td>
+<td align="left">Discussion paper</br> <em>Brendan &amp;
+Levi</em></br>Guest: <a
+href="https://www.khoury.northeastern.edu/people/piotr-sapiezynski/">Dr. Piotr
+Sapiezynski</a></td>
+<td align="left">Ali et al, <a
+href="https://dl.acm.org/doi/abs/10.1145/3359301">Discrimination through
+optimization: how Facebook’s ad delivery can lead to biased
+outcomes</a>, HCI 2019</td>
+<td align="left">Zoom</td>
+<td align="right">Hw2 out</br>Hw1 due</td>
+</tr>
+<tr class="odd">
+<td>Feb 1</td>
+<td align="left">Guest lecture:</br><a
+href="https://www.megan-hofmann.com">Dr. Megan Hofmann</a></td>
+<td align="left">Hoffmann et al., <a
+href="https://dl.acm.org/doi/10.1145/3411764.3445707">The right to help
+and the right help: fostering and regulating collective action in a
+medical making reaction to COVID-19</a>, CHI 2021</td>
+<td align="left">366 WVH</br>&amp; Zoom</td>
+<td align="right">Hw3 out</br>Hw2 due</br>Proj group due</td>
+</tr>
+<tr class="even">
+<td>Feb 8</td>
+<td align="left">Discussion paper</br> <em>Sam</em></br>Guest: <a
+href="https://hbdat.github.io/">Mr. Dat Huynh</a></td>
+<td align="left">H. Wolfson, <a
+href="http://graphics.stanford.edu/courses/cs164-10-spring/Handouts/paper_geohash.pdf">Geometric
+hashing: An overview</a>, IEEE Computational Science &amp; Engineering,
+1997</td>
+<td align="left">Zoom</td>
+<td align="right">Hw3 due</br>Hw4 out</td>
+</tr>
+<tr class="odd">
+<td>Feb 15</td>
+<td align="left">Discussion paper</br><em>Nate</em></br>Guest: <a
+href="https://kevslinger.github.io/">Mr. Kevin Esslinger</a></td>
+<td align="left">V. Mnih et al. <a
+href="https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf">Human-level
+control through deep reinforcement learning</a> Nature, 518:529,
+2015</td>
+<td align="left">Zoom</td>
+<td align="right">Hw4 due</br>Hw5 out</td>
+</tr>
+<tr class="even">
+<td>Feb 22</td>
+<td align="left">Guest lecture:</br><a
+href="https://irenechen.net/">Dr. Irene Chen</a></td>
+<td align="left">I. Chen et al, <a
+href="https://www.annualreviews.org/doi/10.1146/annurev-biodatasci-092820-114757">Ethical
+machine learning in healthcare</a>, Annual Review of Biomedical Data
+Science, 4:123, 2021</td>
+<td align="left">366 WVH</br>&amp; Zoom</td>
+<td align="right">Hw5 due</br>Hw6 out</td>
+</tr>
+<tr class="odd">
+<td>Mar 1</td>
+<td align="left">Guest lecture:</br><a
+href="https://sites.google.com/view/naihuichia">Dr. Nai-Hui
+Chia</a></td>
+<td align="left">N.-H. Chia et al., <a
+href="https://dl.acm.org/doi/abs/10.1145/3357713.3384291">On the need
+for large Quantum depth</a>, ACM SIGACT, 902, 2020 </br>Optional
+background reading: Sec in <a
+href="https://homepages.cwi.nl/~rdewolf/qcnotes.pdf">[1]</a>, Sec18 in
+<a href="https://www.scottaaronson.com/qclec.pdf">[2]</a></td>
+<td align="left">366 WVH</br>&amp; Zoom</td>
+<td align="right">Hw6 due</td>
+</tr>
+<tr class="even">
+<td>Mar 8</td>
+<td align="left"><em>Project pitches</em></td>
+<td align="left"></td>
+<td align="left">Zoom</td>
+<td align="right">Proj proposal due 3/11 </br>Hw7 out</td>
+</tr>
+<tr class="odd">
+<td>Mar 15</td>
+<td align="left"><em>No class, Spring break</em></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="right"></td>
+</tr>
+<tr class="even">
+<td>Mar 22</td>
+<td align="left">Discussion paper</br><em>Xuyang</em></td>
+<td align="left">C. Glymour et al. <a
+href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full">Review
+of causal discovery methods based on graphical models</a> Frontiers in
+Genetics, 10:524, 2019.</td>
+<td align="left">Zoom</td>
+<td align="right">Hw7 due</br>Hw8 out</td>
+</tr>
+<tr class="odd">
+<td>Mar 29</td>
+<td align="left">Guest lecture:</br><a
+href="https://sites.google.com/view/elizabethbondi">Dr. Elizabeth
+Bondi</a></td>
+<td align="left">E. Bondi et al., <a
+href="https://arxiv.org/abs/2112.06751">Role of human-AI interaction in
+selective prediction</a>, AAAI, 2022</td>
+<td align="left">Zoom</td>
+<td align="right">Hw8 due</br>Hw9 out</td>
+</tr>
+<tr class="even">
+<td>Apr 5</td>
+<td align="left">Discussion paper</br><em>Noah &amp;
+Mateusz</em></br>Guest: Mrs. <a
+href="https://www.khoury.northeastern.edu/people/vartika-tewari/">Vartika
+Tewari</a></td>
+<td align="left">I. Goodfellow et al., <a
+href="https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf">Generative
+adversarial nets</a>, NeurIPS, 2014.</td>
+<td align="left">Zoom</td>
+<td align="right">Hw9 due</br>Hw10 out</td>
+</tr>
+<tr class="odd">
+<td>Apr 12</td>
+<td align="left">Discussion paper</br><em>Nithin &amp;
+Arman</em></br>Guest: Mr. <a href="https://harshadsathaye.com/">Harshad
+Sathaye</a></td>
+<td align="left">N. Zahan et al.,<a
+href="https://arxiv.org/abs/2112.10165">What are Weak Links in the npm
+Supply Chain?</a>, ICSE 2022</td>
+<td align="left">Zoom</td>
+<td align="right">Hw10 due</td>
+</tr>
+<tr class="even">
+<td>Apr 19</td>
+<td align="left"><em>No class</br>Project presentations following
+week</em></td>
+<td align="left"></td>
+<td align="left">Zoom</td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td>Apr 26</td>
+<td align="left"><em>Project presentations</em></td>
+<td align="left"></td>
+<td align="left">Zoom</td>
+<td align="right">Proj report due Apr 29</td>
+</tr>
+<tr class="even">
+<td>May 4</td>
+<td align="left"><em>Finals week</em></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="right">Proj review due</td>
+</tr>
+</tbody>
+</table>
+<p></font></p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
