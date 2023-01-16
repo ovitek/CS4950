@@ -7,8 +7,8 @@ Schedule is updated dynamically throughout the semester
 | DATE        | TOPIC / PRESENTER |READING           |LOCATION |      OUT/DUE |
 | ------   |:------------------|:---------------------------------|:------| --------:| 
 | Jan 10 | Intro & overview |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)       | Hastings 105 |  Hw1 out | 
-| Jan 17 | Discussion paper</br>Lead: *Jacob*</br>Guest: [Dennis Giese](https://dontvacuum.me/) | Antonakakis et al. [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf), USENIX 2017  | Zoom |  Hw1 due | 
-| Jan 24 |  |   |  |   | 
+| Jan 17 | Discussion paper</br>Lead: *Jacob*</br>Guest: [Dennis Giese](https://dontvacuum.me/) | Antonakakis et al. [Understanding the Mirai Botnet](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-antonakakis.pdf), USENIX 2017  | Zoom |  Hw2 out</br>Hw3 due | 
+| Jan 24 | Guest lecture:</br>[Dr. Benjamin Gyori](https://scholar.harvard.edu/bgyori)  | Gyori & Bachman [From knowledge to models: Automated modeling in systems and synthetic biology](https://www.sciencedirect.com/science/article/pii/S2452310021000561), *Current Opinion in Systems Biology*, 28:2021 | Zoom &</br>WVH 366 |  Hw3 out</br>Hw2 due</br>Proj groups due | 
 | Jan 31 |  |   |  |   | 
 | Feb 7 |  |   |  |   | 
 | Feb 14 |  |   |  |   | 
