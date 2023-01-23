@@ -11,9 +11,9 @@ Schedule is updated dynamically throughout the semester
 | Jan 24 | Guest lecture:</br>[Dr. Benjamin Gyori](https://scholar.harvard.edu/bgyori)  | Gyori & Bachman [From knowledge to models: Automated modeling in systems and synthetic biology](https://www.sciencedirect.com/science/article/pii/S2452310021000561), *Current Opinion in Systems Biology*, 28:2021 | Zoom &</br>WVH 366 |  Hw3 out</br>Hw2 due</br>Proj groups due | 
 | Jan 31 |  |   |  |   | 
 | Feb 7 | Guest lecture:</br>[Dr. Ilias Zadik](https://iliaszadik.github.io) |   | Zoom &</br>WVH 366 |   | 
-| Feb 14 | Guest lecture:</br>[Michael Ann DeVito](https://michaelanndevito.com/) |   | Zoom &</br>WVH 366 |   | 
+| Feb 14 | Guest lecture:</br>[Dr. Michael Ann DeVito](https://michaelanndevito.com/) |   | Zoom &</br>WVH 366 |   | 
 | Feb 21 |  *Project pitches* |   | Zoom |  |
-| Feb 28 | Guest lecture:</br>[Sunoo Park](https://sunoopark.com/) |   | Zoom &</br>WVH 366 |   | 
+| Feb 28 | Guest lecture:</br>[Dr. Sunoo Park](https://sunoopark.com/) |   | Zoom &</br>WVH 366 |   | 
 | Mar 7 | *No class, Spring break* |   |  | Proj proposal due 3/3  | 
 | Mar 14 |  |   |  |   |  
 | Mar 21 |  |   |  |   | 
