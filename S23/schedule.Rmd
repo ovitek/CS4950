@@ -15,11 +15,11 @@ Schedule is updated dynamically throughout the semester
 | Feb 21 |  *Project pitches* |   | Zoom |  |
 | Feb 28 | Guest lecture:</br>[Dr. Sunoo Park](https://sunoopark.com/) | M. Specter et al. [KeyForge: Non-attributable email from forward-forgeable signatures](https://eprint.iacr.org/2019/390.pdf), Cryptology, 2019  | Zoom &</br>WVH 366 | Hw7 out</br>Hw6 due  | 
 | Mar 7 | *No class, Spring break* |   |  | Proj proposal due 3/3  | 
-| Mar 14 |  |   |  |   |  
-| Mar 21 |  |   |  |   | 
+| Mar 14 | Guest lecture:</br>[Dr. Emily Wenger](https://www.emilywenger.com) |   |Zoom &</br>WVH 366  |   |  
+| Mar 21 |  Guest lecture:</br>[Michael Correll](https://correll.io) |   |Zoom &</br>WVH 366  |   | 
 | Mar 28 |  |   |  |   | 
 | Apr 4 |  |   |  |   | 
-| Apr 11 | *No class, project presentations next week* |   |  |   | 
+| Apr 11 |  |   |  |   | 
 | Apr 18 | *Project presentations* |   |  | Proj report due Apr 21  | 
 | Apr 25 |  *Finals week* |            |            | Proj review due   | 
 </font>
