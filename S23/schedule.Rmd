@@ -15,7 +15,7 @@ Schedule is updated dynamically throughout the semester
 | Feb 21 |  *Project pitches* |   | Zoom |  |
 | Feb 28 | Guest lecture:</br>[Dr. Sunoo Park](https://sunoopark.com/) | M. Specter et al. [KeyForge: Non-attributable email from forward-forgeable signatures](https://eprint.iacr.org/2019/390.pdf), Cryptology, 2019  | Zoom &</br>WVH 366 | Hw7 out</br>Hw6 due  | 
 | Mar 7 | *No class, Spring break* |   |  | Proj proposal due 3/3  | 
-| Mar 14 | Guest lecture:</br>[Dr. Emily Wenger](https://www.emilywenger.com) |   |Zoom &</br>WVH 366  | Hw8 out</br>Hw7 due  |  
+| Mar 14 | Guest lecture:</br>[Dr. Emily Wenger](https://www.emilywenger.com) |  S. Shan et al. [Fawkes: Protecting privacy against unauthorized deep learning models](https://www.usenix.org/system/files/sec20-shan.pdf), USENIX Security Symposium, 2020 |Zoom &</br>WVH 366  | Hw8 out</br>Hw7 due  |  
 | Mar 21 |  Guest lecture:</br>[Michael Correll](https://correll.io) | M. Correll. [Ethical dimensions of visualization research](https://dl.acm.org/doi/10.1145/3290605.3300418), ACM CHI, 2019  |Zoom &</br>WVH 366  |  Hw9 out</br>Hw8 due | 
 | Mar 28 |  |   |  |   | 
 | Apr 4 |  |   |  |   | 
