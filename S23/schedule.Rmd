@@ -19,7 +19,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 21 |  Guest lecture:</br>[Dr. Michael Correll](https://correll.io) | M. Correll. [Ethical dimensions of visualization research](https://dl.acm.org/doi/10.1145/3290605.3300418), ACM CHI, 2019  |Zoom &</br>WVH 366  |  Hw9 out</br>Hw8 due | 
 | Mar 28 | Discussion paper</br>Lead: *Taeyoon*</br>Guest: [Prof. Jon Bell](https://www.jonbell.net/) | S. Zhou et al. [How has forking changed in the last 20 years?: a study of hard forks on GitHub](https://dl.acm.org/doi/10.1145/3377811.3380412), ICSE 2020.</br>Optional: [Open source discussion by Jon Bell](https://neu-se.github.io/CS4910-7580-Spring-2023/lecture-notes/5-open-source.pdf)  | Zoom | Hw10 out</br>Hw9 due  | 
 | Apr 4 | Discussion paper</br>Lead: *Ben* | M. Halm et al. [Burst of the Filter Bubble? Effects of personalization on the diversity of Google News](https://www.tandfonline.com/doi/abs/10.1080/21670811.2017.1338145), Digital Journalism, 2018.  | Zoom | Hw11 out</br>Hw10 due  | 
-| Apr 11 | Discussion paper</br>Lead: *Aaryan* |  M. Lipp et al. [Meltdown: Reading kernel memory from user space](https://www.usenix.org/conference/usenixsecurity18/presentation/lipp), USENIX, 2018.  |  Zoom| Hw11 due  | 
+| Apr 11 | Discussion paper</br>Lead: *Aaryan*</br>Guest: [Prof. Cheng Tan](https://naizhengtan.github.io/) |  M. Lipp et al. [Meltdown: Reading kernel memory from user space](https://www.usenix.org/conference/usenixsecurity18/presentation/lipp), USENIX, 2018.  |  Zoom| Hw11 due  | 
 | Apr 18 | *Project presentations* </br> **Class starts 10:00am** |   |  | Proj report due Apr 21  | 
 | Apr 25 |  *Finals week* |            |            | Proj review due   | 
 </font>
