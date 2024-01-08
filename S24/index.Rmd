@@ -11,7 +11,7 @@ Email: rogers.eth@northeastern.edu</br>
 Office hours: By appointment on zoom or at 177 Huntington Ave, 9th floor.
 
 <p><strong>Course description:</strong></br>
-The course provides students with an introduction to research across all fields of computer science. It explores recent research advances in these fields, gives students practice on how to read and analyze scientific literature in different sub-areas, and provides mentoring and guidance on how to conduct novel research in these fields. The course also provides students with an overview of how research is conducted, from design to method development to empirical evaluation, and from writing research papers to writing academic research proposals. The class meets once per week for a 65-minute session. 
+The course provides students with an introduction to research across all fields of computer science. It explores recent research advances, gives students practice on how to read and analyze scientific literature in different sub-areas. It provides mentoring and guidance on how to conduct novel research, from writing academic research proposals, design and method development to empirical evaluation, and from writing research papers. The class meets once per week for a 65-minute session. 
 
 The prerequisite is CS3950, or permission of the instructor.
 
@@ -33,8 +33,7 @@ Assignment submissions and grades are managed via [Canvas](https://canvas.northe
 The course has no textbook.</br>
 
 <p><strong>Course policies:</strong></br> 
-[Academic integrity policy](http://www.northeastern.edu/osccr/academic-integrity-policy/) is strictly enforced.</br> 
-[NEU covid19 safety policy](https://news.northeastern.edu/coronavirus/) is strictly enforced.</br>
+[Academic integrity policy](https://osccr.sites.northeastern.edu/academic-integrity-policy/) is strictly enforced.</br> 
 Please review [NEU Title IX](https://www.northeastern.edu/ouec/title-ix-policy-2/) policy and procedures.</br>
 Please reach out to [Disability Resource Center](https://drc.sites.northeastern.edu/) if you need an academic accommodation.
 
@@ -51,7 +50,7 @@ Any requests for grade changes or regrading must be made within **seven** days o
 On days when we do not have guest lectures, 1-2 students will make an oral presentation of the assigned manuscript. Leading the discussion involves two tasks. First, the team will make an approximately 15 minute presentation that describes the motivation, goals, and results of the paper. Second, after this presentation and for the remainder of the allocated time slot, the team will lead the discussion on the paper. The goal is to ensure a lively atmosphere for discussion, while being careful to stay on the topic of the paper. The remaining audience members are expected to have read the paper and participate in the discussion. **Attendance and participation in each class is 10 points. Paper presentation and leading the discussion is 40 points.**
 
 <p><strong>Slip days</strong></br>
-There are 2 slip days for the participation and the homework submissions. If you do not take slip days, 2 lowest homework scores will be dropped before calculating the final course grade.
+There are 2 slip days for the participation and the homework submissions (slips for both participation and homework submission must be taken on a same day).  If you do not take slip days, 2 days with lowest participation and lowest homework scores will be dropped before calculating the final course grade.
 
 <p><strong>Project</strong></br>
 During the semester the students will perform a research project (individually, or in a small group).
