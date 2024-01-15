@@ -9,7 +9,7 @@ Schedule is updated dynamically throughout the semester
 | Jan 9 | Intro & overview |  How to read papers [1](https://dl.acm.org/citation.cfm?id=1595493), [2](https://dl.acm.org/citation.cfm?id=1273458)<br>How to write papers [1](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html), [2](https://www.nature.com/articles/d41586-019-02918-5)       | Hurtig 308 |  Hw1 out | 
 | Jan 16 |Discussion paper</br>Lead: *Ethan* | Wang et al. [StudentLife: assessing mental health, academic performance and behavioral trends of college students using smartphones](https://dl-acm-org.ezproxy.neu.edu/doi/10.1145/2632048.2632054), UbiComp 2014 | Hurtig 308 |  Hw2 out</br>Hw1 due | 
 | Jan 23 | | | |  Hw3 out</br>Hw2 due</br>Proj groups due | 
-| Jan 30 | | | |  Hw4 out</br>Hw3 due | 
+| Jan 30 |Guest speaker</br> [Mai ElSherif](https://www.maielsherief.com/) | TBD | |  Hw4 out</br>Hw3 due | 
 | Feb 6  | | | |  Hw5 out</br>Hw4 due  | 
 | Feb 13 | | | |  Hw6 out</br>Hw5 due | 
 | Feb 20 |  *Project pitches* |   |  |  |
