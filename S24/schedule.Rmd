@@ -11,7 +11,7 @@ Schedule is updated dynamically throughout the semester
 | Jan 23 | Discussion paper</br>Lead: *Easha*</br>Guest:</br>[Mrs. Rashika Ramola](https://www.khoury.northeastern.edu/people/rashika-ramola/) | Ramola et al. [The field of protein function prediction as viewed by different domain scientists](https://academic.oup.com/bioinformaticsadvances/article/2/1/vbac057/6670646), Bioinformatics 2022 | Hurtig 308 |  Hw3 out</br>Hw2 due</br>Proj groups due | 
 | Jan 30 |Guest speaker</br> [Prof. Mai ElSherif](https://www.maielsherief.com/) |  Demszky et al. [Using large language models in psychology](https://www.nature.com/articles/s44159-023-00241-5), Nature Reviews, 2023 | Hurtig 308 |  Hw4 out</br>Hw3 due | 
 | Feb 6  | Guest speaker</br> [Mr. Luowen Qian](https://cs-people.bu.edu/luowenq/) |Brakerski et al. [On the computational hardness needed for quantum cryptography](https://eprint.iacr.org/2022/1181.pdf) Eprint, 2022 | WVH 366 |  Hw5 out</br>Hw4 due  | 
-| Feb 13 | Guest speaker:</br>Mrs. Angela Smith | | WVH 366 |  Hw6 out</br>Hw5 due | 
+| Feb 13 | Guest speaker</br>Mrs. Angela Smith | | WVH 366 |  Hw6 out</br>Hw5 due | 
 | Feb 20 |  *Project pitches* |   |  |  |
 | Feb 27 | | | |  Hw7 out</br>Hw6 due  | 
 | Mar 5  | *No class, Spring break* |   |  | Proj proposal due 3/3  | 
