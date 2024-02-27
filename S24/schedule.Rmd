@@ -17,7 +17,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 5  | *No class, Spring break* |   |  | Proj proposal due 3/3  | 
 | Mar 12 | *No class, project prep* | | |  Hw7 out  |  
 | Mar 19 | Guest speaker</br>[Dr. Andres Erbsen](https://andres.systems/)| | |  Hw8 out</br>Hw7 due | 
-| Mar 26 | | | |  Hw9 out</br>Hw9 due  | 
+| Mar 26 | | | |  Hw9 out</br>Hw8 due  | 
 | Apr 2  | Guest speaker</br>[Mrs. Xiang 'Jenny' Ren](https://jrenx.github.io/)| | |  Hw9 due  | 
 | Apr 9  | *Project presentations* | | |    | 
 | Apr 16 |  |   |  | Proj report due Apr 21  | 
