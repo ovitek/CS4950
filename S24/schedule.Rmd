@@ -18,7 +18,7 @@ Schedule is updated dynamically throughout the semester
 | Mar 12 | *No class, project prep* | | |  Hw7 out  |  
 | Mar 19 | Guest speaker</br>[Dr. Andres Erbsen](https://andres.systems/)| A. Erbsen et al. [Simple high-level code for cryptographic arithmetic - With proofs, without compromises](http://adam.chlipala.net/papers/FiatCryptoSP19/FiatCryptoSP19.pdf), IEEE Symposium on Security and Privacy, 2019. (Skip 3.F, 4.C, 4.D) This [abriged version](https://dspace.mit.edu/bitstream/handle/1721.1/131080/fiat-crypto.pdf) may be helpful. | WVH 366 |  Hw8 out</br>Hw7 due | 
 | Mar 26 | Discussion paper</br>Lead: *Ivan* | G. Coppersmith et al. [Natural language processing of social media as screening for suicide risk](https://journals.sagepub.com/doi/full/10.1177/1178222618792860), Biomedical Informatics Insights, 2018. |Hurtig 308 |  Hw9 out</br>Hw8 due  | 
-| Apr 2  | Guest speaker</br>[Mrs. Xiang 'Jenny' Ren](https://jrenx.github.io/)| | |  Hw9 due  | 
+| Apr 2  | Guest speaker</br>[Mrs. Xiang 'Jenny' Ren](https://jrenx.github.io/)|  X. Ren et al. [An analysis of performance evolution of Linux’s core operations](https://dl.acm.org/doi/pdf/10.1145/3341301.3359640), SOSP, 2019.| WVH 366 |  Hw9 due  | 
 | Apr 9  | *Project presentations* | | |    | 
 | Apr 16 |  |   |  | Proj report due Apr 21  | 
 | Apr 25 |  *Finals week* |            |            | Proj review due   | 
